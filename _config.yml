@@ -3,7 +3,7 @@ title: Lively Lash
 subtitle: "& Beauty"
 email: livelylash@gmail.com
 description: A skin care and eyelash service located in Pacifica, CA.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 739 Hickey Blvd

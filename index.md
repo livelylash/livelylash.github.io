@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'Lively Lash & Beauty'
 description: null
 image: null
 author: null
