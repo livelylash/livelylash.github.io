@@ -1,17 +1,17 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title: Lively Lash
+subtitle: "& Beauty"
+email: livelylash@gmail.com
+description: A skin care and eyelash service located in Pacifica, CA.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+street_address: 739 Hickey Blvd
+city: Pacifica
+state: CA
+zip_code: 94044
 country: United States of America
-phone: (716) 555-5555
+phone: (650) 984-8888
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -22,14 +22,9 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
-  GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
-  Facebook:
-  Slack:
+  Instagram: https://www.instagram.com/nicolelivelylash/
+  Facebook: https://www.facebook.com/livelylash
+  Yelp: https://www.yelp.com/biz/lively-lash-and-beauty-pacifica-2
 
 # build settings
 markdown: kramdown
